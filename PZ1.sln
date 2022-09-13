@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ1", "PZ1\PZ1.csproj", "{B114EA81-2C92-42F6-9740-A760FC182503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ2", "PZ2\PZ2.csproj", "{6FDDB169-9CE6-4387-BF5D-44BF6CED2638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B114EA81-2C92-42F6-9740-A760FC182503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B114EA81-2C92-42F6-9740-A760FC182503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B114EA81-2C92-42F6-9740-A760FC182503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B114EA81-2C92-42F6-9740-A760FC182503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDDB169-9CE6-4387-BF5D-44BF6CED2638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDDB169-9CE6-4387-BF5D-44BF6CED2638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDDB169-9CE6-4387-BF5D-44BF6CED2638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDDB169-9CE6-4387-BF5D-44BF6CED2638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399FE0B0-EE74-4E15-A5B1-5C1995D2CCCE}
+	EndGlobalSection
+EndGlobal
