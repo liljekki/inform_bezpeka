@@ -1,0 +1,15 @@
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\bin\Debug\net6.0\pz3_3.exe
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\bin\Debug\net6.0\pz3_3.deps.json
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\bin\Debug\net6.0\pz3_3.runtimeconfig.json
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\bin\Debug\net6.0\pz3_3.dll
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\bin\Debug\net6.0\pz3_3.pdb
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.csproj.AssemblyReference.cache
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.AssemblyInfoInputs.cache
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.AssemblyInfo.cs
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.csproj.CoreCompileInputs.cache
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.dll
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\refint\pz3_3.dll
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.pdb
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\pz3_3.genruntimeconfig.cache
+C:\programme\inform_bez\PZ_3\pz3\pz3_3\obj\Debug\net6.0\ref\pz3_3.dll
