@@ -1,0 +1,15 @@
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.csproj.AssemblyReference.cache
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.AssemblyInfoInputs.cache
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.AssemblyInfo.cs
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.csproj.CoreCompileInputs.cache
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\bin\Debug\net6.0\PZ_6.exe
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\bin\Debug\net6.0\PZ_6.deps.json
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\bin\Debug\net6.0\PZ_6.runtimeconfig.json
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\bin\Debug\net6.0\PZ_6.dll
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\bin\Debug\net6.0\PZ_6.pdb
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.dll
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\refint\PZ_6.dll
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.pdb
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\PZ_6.genruntimeconfig.cache
+C:\programme\inform_bez\PZ_3\PZ_6\PZ_6\obj\Debug\net6.0\ref\PZ_6.dll
